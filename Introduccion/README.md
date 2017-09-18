@@ -35,3 +35,16 @@ Tras esto, es conveniente instalar pip que es un instalador de librerias, para e
  3. Añadimos en path la variable que sea el directorio de Scripts de Python
 
 Para comprobar su funcionamiento, abrimos la terminal y escribimos pip
+
+## Para comenzar
+### Números y operadores aritméticos
+Podemos desde la consola de python realizar operaciones tales como suma(+), resta (-), multiplicación(*) y división (/), que siguen las reglas de prioridad de las operaciones. También se pueden usar paréntesis, el redondeo(//), la potencia(**).
+
+### Variables
+Se pueden almacenar datos mediante asignación como por ejemplo: <<variable = 2>> y para ver su valor, sólo es necesario poner el nombre de la variable por consola.
+
+### Cadenas
+Casos especiales de variables como cadenas para tener en cuenta: comillas en la frase mediante \ (\"), saltos de línea (\n).
+
+## Editor de texto para ayudarnos
+Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita.
