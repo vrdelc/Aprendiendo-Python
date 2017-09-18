@@ -19,6 +19,5 @@ Para poder empezar a trabajar vamos a necesitar instalar la herramienta para ell
 ## Hola Mundo
 Para los que no sepan de programación, el primer programa se llama Hola Mundo y se muestra por pantalla Hola Mundo para probar la correcta instalación.
 Para ello buscaremos en Programas IDLE (Python 3.6 32-bit)y se abrirá la consola: "Python 3.6.0 Shell".
-A continuación sólo tenemos que escribir:
->> print("Hola Mundo")
+A continuación sólo tenemos que escribir: << print("Hola Mundo") >>
 ![](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Capturas%20de%20pantalla/int-holamundo.JPG)
