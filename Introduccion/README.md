@@ -21,13 +21,17 @@ Para los que no sepan de programación, el primer programa se llama Hola Mundo y
 Para ello buscaremos en Programas IDLE (Python 3.6 32-bit)y se abrirá la consola: "Python 3.6.0 Shell".
 A continuación sólo tenemos que escribir: << print("Hola Mundo") >>
 ![](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Capturas%20de%20pantalla/int-holamundo.JPG)
+
 También podemos ejecutar python desde la consola de Windows (cmd), para ello:
  1. Abrir en el sistema de archivos  y buscar Python para conocer la ruta
  2. Editar las variables de entorno (se puede hacer escribiendo variables en el buscador de Windows)
  3. Añadimos en path la variable que sea el directorio de Python
-Para comprobar su funcionamiento, abrimos la terminal y escribimos python
+
+Para comprobar su funcionamiento, abrimos la terminal y escribimos python.
+
 Tras esto, es conveniente instalar pip que es un instalador de librerias, para ello:
  1. Desde la ruta de python buscamos en Scrips que tengamos ficheros como pip.exe, pip3.6.exe, pip3.exe.
  2. Editar las variables de entorno (se puede hacer escribiendo variables en el buscador de Windows)
  3. Añadimos en path la variable que sea el directorio de Scripts de Python
+
 Para comprobar su funcionamiento, abrimos la terminal y escribimos pip
