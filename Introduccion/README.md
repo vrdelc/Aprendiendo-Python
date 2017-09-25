@@ -46,5 +46,11 @@ Se pueden almacenar datos mediante asignación como por ejemplo: <<variable = 2>
 ### Cadenas
 Casos especiales de variables como cadenas para tener en cuenta: comillas en la frase mediante \ (\"), saltos de línea (\n).
 
+### Condiciones
+En el fichero [condicionales.py](Aprendiendo-Python/Introduccion/condicionales.py) se muestra un ejemplo para una condicional if-elseif-else, es importante de no olvidarse de los dos puntos y de la tabulación para que muestren bien las condiciones.
+
 ## Editor de texto para ayudarnos
-Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita.
+Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita. O sino [Atom](https://atom.io/), del que me han dado mejores recomendaciones a la hora de trabajar.
+
+## Ejecutar los programas desde terminal
+Primero es necesario tener un fichero con terminación "py" y abrimos la terminal en el directorio donde hayamos guardado el archivo. Y es tan fácil como escribir <<python nombre_fichero.py>>
