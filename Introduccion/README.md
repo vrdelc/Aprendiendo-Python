@@ -45,9 +45,13 @@ Se pueden almacenar datos mediante asignación como por ejemplo: <<variable = 2>
 
 ### Cadenas
 Casos especiales de variables como cadenas para tener en cuenta: comillas en la frase mediante \ (\"), saltos de línea (\n).
+El método upper() cambia todos los caracteres de la cadena a mayúsculas.
 
 ### Condiciones
 En el fichero [condicionales.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/condicionales.py) se muestra un ejemplo para una condicional if-elseif-else, es importante de no olvidarse de los dos puntos y de la tabulación para que muestren bien las condiciones.
+
+### Funciones
+En el fichero [funciones.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/funciones.py) se muestra un ejemplo de funciones, para definirlas utilizaremos "def" seguido del nombre de la función. En el ejemplo hay una función sin parámetros y otra con parámetros.
 
 ## Editor de texto para ayudarnos
 Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita. O sino [Atom](https://atom.io/), del que me han dado mejores recomendaciones a la hora de trabajar.
