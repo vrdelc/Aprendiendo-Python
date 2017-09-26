@@ -64,3 +64,6 @@ Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me des
 
 ## Ejecutar los programas desde terminal
 Primero es necesario tener un fichero con terminación "py" y abrimos la terminal en el directorio donde hayamos guardado el archivo. Y es tan fácil como escribir "python nombre_fichero.py"
+
+# Reto de las vocales
+A partir de una cadena de vocales, imprimir a partir de un bucle cada vocal en mayúsculas. Puedes ver la [solución](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/vocales.py)
