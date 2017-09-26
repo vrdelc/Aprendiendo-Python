@@ -59,6 +59,9 @@ En el fichero [listas.py](https://github.com/vrdelc/Aprendiendo-Python/blob/mast
 ### Bucles
 En el fichero [bucles.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/bucles.py) se muestran varios ejemplos de bucles.
 
+### Lectura de datos
+Para leer datos utilizaremos input(), se puede asiganar a una variable y entre paréntesis un mensaje que mostrar al usuario. Es importante saber que siempre va a devolver una cadena, para convertilo en un número: int(variable).
+
 ## Editor de texto para ayudarnos
 Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita. O sino [Atom](https://atom.io/), del que me han dado mejores recomendaciones a la hora de trabajar.
 
