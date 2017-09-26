@@ -53,6 +53,12 @@ En el fichero [condicionales.py](https://github.com/vrdelc/Aprendiendo-Python/bl
 ### Funciones
 En el fichero [funciones.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/funciones.py) se muestra un ejemplo de funciones, para definirlas utilizaremos "def" seguido del nombre de la función. En el ejemplo hay una función sin parámetros y otra con parámetros.
 
+### Listas
+En el fichero [listas.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/listas.py) se muestran varios ejemplos de creación y tratamiento de listas comentados.
+
+### Bucles
+En el fichero [bucles.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/bucles.py) se muestran varios ejemplos de bucles.
+
 ## Editor de texto para ayudarnos
 Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita. O sino [Atom](https://atom.io/), del que me han dado mejores recomendaciones a la hora de trabajar.
 
