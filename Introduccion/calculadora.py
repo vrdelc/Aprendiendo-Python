@@ -1,3 +1,4 @@
+#Autor: Virginia Riego del Castillo
 def mostrar_operaciones():
     print("Las operaciones de la CALCULADORA son:")
     print("1-Sumar")
