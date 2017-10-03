@@ -3,6 +3,8 @@
 ## ¿Qué es Python?
 Python es un lenguaje de programación de propósito general, como aplicaciones web, aplicaciones de escritorio, juegos, etc. Para saber más acerca de [Python](https://www.python.org).
 
+----------
+
 ## Instalación de Python
 Para poder empezar a trabajar vamos a necesitar instalar la herramienta para ello:
  1. Entrar en la página de [Python](https://www.python.org).
@@ -15,6 +17,8 @@ Para poder empezar a trabajar vamos a necesitar instalar la herramienta para ell
 ![](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Capturas%20de%20pantalla/int-instalacion3.JPG)
  6. La instalación habrá terminado con: "Setup was successful"
 ![](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Capturas%20de%20pantalla/int-instalacion4.JPG)
+
+----------
 
 ## Hola Mundo
 Para los que no sepan de programación, el primer programa se llama Hola Mundo y se muestra por pantalla Hola Mundo para probar la correcta instalación.
@@ -35,6 +39,8 @@ Tras esto, es conveniente instalar pip que es un instalador de librerias, para e
  3. Añadimos en path la variable que sea el directorio de Scripts de Python
 
 Para comprobar su funcionamiento, abrimos la terminal y escribimos pip
+
+----------
 
 ## Para comenzar
 ### Números y operadores aritméticos
@@ -62,11 +68,25 @@ En el fichero [bucles.py](https://github.com/vrdelc/Aprendiendo-Python/blob/mast
 ### Lectura de datos
 Para leer datos utilizaremos input(), se puede asiganar a una variable y entre paréntesis un mensaje que mostrar al usuario. Es importante saber que siempre va a devolver una cadena, para convertilo en un número: int(variable).
 
+### Excepciones
+El tratamiento de excepciones es muy importante, ya que al usar métodos que no son nuestros o incluso nuestro, se pueden provocar errores que paralicen el programa. Para evitarlo utilizaremos los bloques try-except explicados en el ejemplo de [excepciones.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/excepciones.py)
+
+----------
+
 ## Editor de texto para ayudarnos
 Recomendado en el curso [PyCharm](https://www.jetbrains.com/pycharm/), yo me descargué la versión community ya que es totalmente gratuita. O sino [Atom](https://atom.io/), del que me han dado mejores recomendaciones a la hora de trabajar.
+
+----------
 
 ## Ejecutar los programas desde terminal
 Primero es necesario tener un fichero con terminación "py" y abrimos la terminal en el directorio donde hayamos guardado el archivo. Y es tan fácil como escribir "python nombre_fichero.py"
 
+----------
+
 # Reto de las vocales
 A partir de una cadena de vocales, imprimir a partir de un bucle cada vocal en mayúsculas. Puedes ver la [solución](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/vocales.py)
+
+----------
+
+# La calculadora
+En este programa se realizará una calculadora con los conocimientos básicos de python. Se mostrará un listado de las posibles operaciones numeradas (suma, resta, multiplicacion, división) y el usuario elegirá una de ellas. Después se solicitirán dos números y se dará un resultado de la operación. Tras esto, se pedirá al usuario si desea continuar o no. En caso de que diga que si se volverá a repetir el proceso y en caso negativo se terminará el programa. Para ver la [solución](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Introduccion/calculadora.py)
