@@ -19,3 +19,7 @@ Aunque sea inmutable, si tenemos una lista en una de las posiciones la podemos e
 Para ver estas ideas con ejemplos, revisar el fichero [tuplas.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/tuplas.py)
 
 ## 4. Conjuntos
+
+
+## Lista de compras
+En este ejercicio se solicita realizar un programa que: agregue artículos, borrar artículos y mostrar artículos. Puedes ver una posibles solucción en [lista_compra.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/lista_compra.py)
