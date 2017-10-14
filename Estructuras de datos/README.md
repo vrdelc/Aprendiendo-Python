@@ -22,4 +22,7 @@ Para ver estas ideas con ejemplos, revisar el fichero [tuplas.py](https://github
 
 
 ## Lista de compras
-En este ejercicio se solicita realizar un programa que: agregue artículos, borrar artículos y mostrar artículos. Puedes ver una posibles solucción en [lista_compra.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/lista_compra.py)
+En este ejercicio se solicita realizar un programa que: agregue artículos, borrar artículos y mostrar artículos. Puedes ver una posible solución en [lista_compra.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/lista_compra.py)
+
+## Agenda telefónica
+En este ejercicio se solicita realizar un programa que simule una agenda telefónica, con las siguientes funciones: añadir nuevos contactos, borrar contactos, ver todos los contactos, ver un contacto y actualizar un contacto. Puedes ver una posible solución en [agenda_telefonica.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/agenda_telefonica.py)
