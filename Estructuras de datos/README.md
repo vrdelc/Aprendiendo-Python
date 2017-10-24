@@ -26,3 +26,6 @@ En este ejercicio se solicita realizar un programa que: agregue artículos, borr
 
 ## Agenda telefónica
 En este ejercicio se solicita realizar un programa que simule una agenda telefónica, con las siguientes funciones: añadir nuevos contactos, borrar contactos, ver todos los contactos, ver un contacto y actualizar un contacto. Puedes ver una posible solución en [agenda_telefonica.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/agenda_telefonica.py)
+
+## Adivina el número
+Se genera un número aleatorio entre 1 y 10, hay que adivinar el número. Hay un número de vidas que se gastan cada vez que se falla. Puedes ver una posible solución en [adivina.py](https://github.com/vrdelc/Aprendiendo-Python/blob/master/Estructuras%20de%20datos/adivina.py)
