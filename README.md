@@ -4,7 +4,7 @@ En este espacio quiero dejar recogidos los royectos realizados durando un curso 
 A continuación un esquema de la distribución:
  1. [Introduccion](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Introduccion):instalación, hola mundo,variables, operaciones, cadenas, condicionales, funciones, bucles, lectura de datos y excepciones.
  2. [Estructuras de datos](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Estructuras%20de%20datos): listas, tuplas, conjuntos, diccionarios y slices.
- 3. [Programación orientada a objetos](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Introduccion)
+ 3. [Programación orientada a objetos](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%a%objetos): creación de objetos y sus funciones.
  4. [Fechas y horas](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Introduccion)
  5. [Archivos](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Introduccion)
  6. [Bases de datos](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Introduccion)
