@@ -1,6 +1,6 @@
 # Programación orientada a objetos en ![Python](https://techspawn.com/wp-content/uploads/2016/10/Python_logo.png)
 
-A continuación se muestra una explicación acerca de la programación orientada a objetos en Python. Para ver ejemplos, [main.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%a%objetos/main.py) instancia las clases y utiliza sus métodos, [tablero.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%a%objetos/tablero.py) y [jugador.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%a%objetos/jugador.py) tienen clases para ser utilizadas.
+A continuación se muestra una explicación acerca de la programación orientada a objetos en Python. Para ver ejemplos, [main.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%20a%20objetos/main.py) instancia las clases y utiliza sus métodos, [tablero.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%20a%20objetos/tablero.py) y [jugador.py](https://github.com/vrdelc/Aprendiendo-Python/tree/master/Orientado%20a%20objetos/jugador.py) tienen clases para ser utilizadas.
 ## Creación de clases
 Para definir una clase sólo hay que utilizar ***class nombre_clase:*** y a continuación los atributos, constructor y métodos
 ## Atributos
